@@ -1,2 +1,2 @@
 # Starbits
-ERC-20 Ethereum Smart Contract (WIP)
+BEP-20 Binance Smart Chain Smart Contract (WIP)
